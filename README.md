@@ -1,1 +1,1 @@
-# Sprinklewaffles.github.io
+# sprinklewaffles.github.io
