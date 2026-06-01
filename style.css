@@ -23,7 +23,7 @@ header h1 {
 }
 
 nav {
-    background: #1b5e20;
+    background: #082668;
     text-align: center;
     padding: 15px;
 }
@@ -36,7 +36,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #c8e6c9;
+    color: #082668;
 }
 
 #hero {
@@ -55,7 +55,7 @@ nav a:hover {
     margin-top: 20px;
     padding: 12px 25px;
     border: none;
-    background: #4caf50;
+    background: #082668;
     color: white;
     font-size: 1rem;
     cursor: pointer;
@@ -63,7 +63,7 @@ nav a:hover {
 }
 
 #hero button:hover {
-    background: #388e3c;
+    background: #082668;
 }
 
 section {
@@ -74,7 +74,7 @@ section {
 
 section h2 {
     margin-bottom: 20px;
-    color: #2e7d32;
+    color: #082668;
 }
 
 .cards {
@@ -94,7 +94,7 @@ section h2 {
 
 .card h3 {
     margin-bottom: 10px;
-    color: #1b5e20;
+    color: #082668;
 }
 
 ul, ol {
@@ -103,7 +103,7 @@ ul, ol {
 
 footer {
     text-align: center;
-    background: #1b5e20;
+    background: #082668;
     color: white;
     padding: 20px;
     margin-top: 30px;
