@@ -1,1 +1,1 @@
-# sprinklewaffles.github.io
+# smitherville.github.io
